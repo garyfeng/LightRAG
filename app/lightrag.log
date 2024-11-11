@@ -1,0 +1,17 @@
+2024-11-11 01:38:56,885 - lightrag - INFO - Logger initialized for working directory: ./local_neo4jWorkDir
+2024-11-11 01:38:56,891 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-11 01:38:56,893 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-11 01:38:56,903 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-11 01:38:56,932 - lightrag - INFO - Creating a new event loop in main thread.
+2024-11-11 01:38:56,935 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-11 01:38:59,438 - lightrag - INFO - [New Chunks] inserting 42 chunks
+2024-11-11 01:38:59,441 - lightrag - INFO - Inserting 42 vectors to chunks
+2024-11-11 01:39:01,524 - lightrag - INFO - [Entity Extraction]...
+2024-11-11 01:41:47,216 - lightrag - INFO - Inserting 1203 vectors to entities
+2024-11-11 01:41:55,376 - lightrag - INFO - Inserting 289 vectors to relationships
+2024-11-11 01:41:58,642 - lightrag - INFO - Writing graph with 1204 nodes, 289 edges
+2024-11-11 01:41:59,032 - lightrag - INFO - Truncate 42 to 3 chunks
+2024-11-11 01:42:04,547 - lightrag - INFO - Local query uses 60 entites, 7 relations, 3 text units
+2024-11-11 01:42:10,007 - lightrag - INFO - Global query uses 55 entites, 60 relations, 3 text units
+2024-11-11 01:42:17,577 - lightrag - INFO - Local query uses 60 entites, 8 relations, 3 text units
+2024-11-11 01:42:17,901 - lightrag - INFO - Global query uses 55 entites, 60 relations, 3 text units
